@@ -1,0 +1,11 @@
+{
+  "name": "cyve/js-collection",
+  "description": "JavaScript collection manager",
+  "license": "MIT",
+  "authors": [
+    "Cyril Vmd <cyril@cyrilwebdesign.com>"
+  ],
+  "dependencies": {
+    "jasmine-core": "^2.4.1"
+  }
+}
