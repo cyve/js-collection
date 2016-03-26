@@ -1,6 +1,16 @@
 # js-collection
 JavaScript collection manager
 
+## Installation
+
+```shell
+$ bower install https://github.com/cyve/js-collection.git --save
+```
+
+```html
+<script type="text/javascript" src="js-collection/src/Collection.js"></script>
+```
+
 ## Usage
 
 ```javascript
@@ -51,5 +61,5 @@ collection.forEach(function(element, i, collection){
 var json = collection.toJSON();
 
 // Get elements in a simple array
-var json = collection.toArray();
+var array = collection.toArray();
 ```
