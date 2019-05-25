@@ -3,7 +3,7 @@
   "description": "JavaScript collection manager",
   "license": "MIT",
   "authors": [
-    "Cyril Vermande <cyril@cyrilwebdesign.com>"
+    "Cyril Vermande"
   ],
   "devDependencies": {
     "jasmine-core": "^2.4.1"
